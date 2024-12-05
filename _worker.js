@@ -17,6 +17,8 @@ vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@www.fast.com:443?encryption=none&se
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@[2600:140b:2:9a8::24fe]:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD%E5%9F%9F%E5%90%8D-1
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@www.speedtest.net:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD%E5%9F%9F%E5%90%8D-2
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@104.17.148.22:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD%E5%9F%9F%E5%90%8D-2
+vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@jd.tomtye.us.kg:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=randomized&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD%E5%9F%9F%E5%90%8D%E8%87%AA%E5%BB%BA
+vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@69.84.182.143:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4-0
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@185.193.28.208:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4-1
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@104.18.170.228:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4-2
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@104.17.177.228:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4-3
