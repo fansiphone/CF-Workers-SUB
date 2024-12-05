@@ -12,7 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://hj.tomtye.us.kg/tom123tye321
+https://jd.tomtye.us.kg/d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@185.193.28.208:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4-1
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@104.18.170.228:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4-2
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@104.17.177.228:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4-3
