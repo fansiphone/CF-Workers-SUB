@@ -13,6 +13,10 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 https://jd.tomtye.us.kg/d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4
+vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@www.fast.com:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD%E5%9F%9F%E5%90%8D-1
+vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@[2600:140b:2:9a8::24fe]:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD%E5%9F%9F%E5%90%8D-1
+vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@www.speedtest.net:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD%E5%9F%9F%E5%90%8D-2
+vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@104.17.148.22:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD%E5%9F%9F%E5%90%8D-2
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@185.193.28.208:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4-1
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@104.18.170.228:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4-2
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@104.17.177.228:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4-3
@@ -22,6 +26,11 @@ vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@[2606:4700:310c::ac42:2c9f]:443?enc
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@[2606:4700:310c::ac42:2d10]:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV6-3
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@[2606:4700:310c::ac42:2f6c]:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV6-4
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@bpb-panel-9d7.pages.dev.:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV6-5
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.193.28.208:443?encryption=none&security=tls&sni=QWE-DTS.paGeS.dEv&alpn=h2&fp=randomized&type=ws&host=QWe-DTS.pages.dEv&path=%2FproxyIP%3D129.150.50.63#%E6%96%B0%E5%8A%A0%E5%9D%A1IPV4-1
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.170.228:443?encryption=none&security=tls&sni=QWE-DTS.paGeS.dEv&alpn=h2&fp=randomized&type=ws&host=QWe-DTS.pages.dEv&path=%2FproxyIP%3D129.150.50.63#%E6%96%B0%E5%8A%A0%E5%9D%A1IPV4-2
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.177.228:443?encryption=none&security=tls&sni=QWE-DTS.paGeS.dEv&alpn=h2&fp=randomized&type=ws&host=QWe-DTS.pages.dEv&path=%2FproxyIP%3D129.150.50.63#%E6%96%B0%E5%8A%A0%E5%9D%A1IPV4-3
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.245.43:443?encryption=none&security=tls&sni=QWE-DTS.paGeS.dEv&alpn=h2&fp=randomized&type=ws&host=QWe-DTS.pages.dEv&path=%2FproxyIP%3D129.150.50.63#%E6%96%B0%E5%8A%A0%E5%9D%A1IPV4-4
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.193.28.208:8080?encryption=none&security=none&type=ws&host=xn--5usp3szwdw3htsk95gww7a.us.kg&path=%2Ft324d2TuqlDHmuRW%2FMTQxLjE0Ny42MS4xMTY%3D%3Fed%3D2560#%E6%96%B0%E5%8A%A0%E5%9D%A1IPV4-5
 `
 
 let urls = [];
