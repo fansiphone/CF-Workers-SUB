@@ -14,11 +14,8 @@ let timestamp = 4102329600000;//2099-12-31
 let MainData = `
 https://jd.tomtye.us.kg/d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4
 https://bpb241205.tomtye.us.kg/sub/e3722a01-1b1e-4667-b77f-3e8599e47815#BPB-Normal
-vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@www.fast.com:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD%E5%9F%9F%E5%90%8D-1
-vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@[2600:140b:2:9a8::24fe]:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD%E5%9F%9F%E5%90%8D-1
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@www.speedtest.net:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD%E5%9F%9F%E5%90%8D-2
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@104.17.148.22:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD%E5%9F%9F%E5%90%8D-2
-vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@jd.tomtye.us.kg:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=randomized&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD%E5%9F%9F%E5%90%8D%E8%87%AA%E5%BB%BA
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@69.84.182.143:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4-0
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@185.193.28.208:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4-1
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@104.18.170.228:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4-2
@@ -27,11 +24,15 @@ vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@190.93.245.43:443?encryption=none&s
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@104.17.25.97:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4%E4%BC%98%E9%80%891
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@104.16.219.230:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4%E4%BC%98%E9%80%892
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@104.17.69.129:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4%E4%BC%98%E9%80%893
+vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@104.18.254.91:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4%E4%BC%98%E9%80%894
+vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@162.159.133.127:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV4%E4%BC%98%E9%80%895
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@[2606:4700:3036::ac43:a909]:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV6-1
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@[2606:4700:310c::ac42:2c9f]:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV6-2
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@[2606:4700:310c::ac42:2d10]:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV6-3
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@[2606:4700:310c::ac42:2f6c]:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV6-4
 vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@bpb-panel-9d7.pages.dev.:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV6-5
+vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@[2606:4700::12:5a3f:42fd:83d5]:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV6%E4%BC%98%E9%80%897
+vless://d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4@[2606:4700:0:4dce:5198:b203:5afc:432]:443?encryption=none&security=tls&sni=jd.tomtye.us.kg&fp=random&type=ws&host=jd.tomtye.us.kg&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BDIPV6%E4%BC%98%E9%80%898
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.193.28.208:443?encryption=none&security=tls&sni=QWE-DTS.paGeS.dEv&alpn=h2&fp=randomized&type=ws&host=QWe-DTS.pages.dEv&path=%2FproxyIP%3D129.150.50.63#%E6%96%B0%E5%8A%A0%E5%9D%A1IPV4-1
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.170.228:443?encryption=none&security=tls&sni=QWE-DTS.paGeS.dEv&alpn=h2&fp=randomized&type=ws&host=QWe-DTS.pages.dEv&path=%2FproxyIP%3D129.150.50.63#%E6%96%B0%E5%8A%A0%E5%9D%A1IPV4-2
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.177.228:443?encryption=none&security=tls&sni=QWE-DTS.paGeS.dEv&alpn=h2&fp=randomized&type=ws&host=QWe-DTS.pages.dEv&path=%2FproxyIP%3D129.150.50.63#%E6%96%B0%E5%8A%A0%E5%9D%A1IPV4-3
