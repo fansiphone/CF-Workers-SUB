@@ -12,6 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
+https://dyhj.241224.tomtye.us.kg/tom123tye321
 https://jd.tomtye.us.kg/d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4
 https://jd.tomtye.us.kg/d3e33bec-85f2-4df1-82ff-f4ea0f21bbf4
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2052?encryption=none&security=none&type=ws&host=xn--5usp3szwdw3htsk95gww7a.us.kg&path=%2F2S0oVkEYCoe1GGgV%2FMTQxLjE0Ny42MS4xMTY%3D%3Fed%3D2560#154
