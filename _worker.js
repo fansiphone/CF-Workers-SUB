@@ -12,7 +12,6 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://dyhj.241224.tomtye.us.kg/tom123tye321?sub=alvless.comorg.us.kg
 https://dyhj.241224.tomtye.us.kg/tom123tye321
 `
 
